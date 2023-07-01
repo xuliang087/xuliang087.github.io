@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://xuliang087.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 16:34:52 +0800</lastBuildDate><atom:link href="https://xuliang087.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://xuliang087.github.io/post/blog/</link>
+      <pubDate>Sat, 01 Jul 2023 16:34:52 +0800</pubDate>
+      
+      <guid>https://xuliang087.github.io/post/blog/</guid>
+      <description>##这是我的第一篇博客，因为不熟悉mac系统终端的命令语句导致在创造blog的过程反反复复删除了很多次。因为mac系统的原因，导致下载hugo的时候不是特别顺利，后来经过网上搜查资料以及自学解决了各种问题，初步掌握了如何在hugo上创建自己的blog，但还不是非常熟练，需要多加练习。</description>
+    </item>
+    
+  </channel>
+</rss>
